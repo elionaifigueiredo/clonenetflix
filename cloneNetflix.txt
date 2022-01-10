@@ -1,0 +1,70 @@
+
+INSTALE O LIVE SERVE NO VISUAL STUDIO CODE
+------------------------------------------
+Base de Dados de Filmes
+https://www.themoviedb.org/
+------------------------------------------
+
+CSS - TRUQUES DE MESTRES 
+	
+	CLASS WRAPPER (Envelopar) ou Container
+
+	Exemplo 
+	
+	<div class=""wrapper>
+		<div>
+			<div>
+				<div>
+
+
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	
+------------------------------------------
+Font Awesome - adiciona icones 
+<!-- refereenciando link externo -->
+<script src="https://kit.fontawesome.com/0e7e01028c.js" crossorigin="anonymous"></script>
+
+--------------------------------------------------------------
+
+REALIZAR O SLIDE DOS FILMES COM jquery
+OWL.CAROUSEL.JS
+https://owlcarousel2.github.io/OwlCarousel2/
+
+realize o download 
+desconpacta os arquivos dentro do projeto
+e crie uma pasta dentro da pasta do js
+dentro do arquivo recorte o jquery.min para dentro da pasta owl
+C:\projetos\web\cloneNetflix\OwlCarousel2-2.3.4\docs\assets\vendors
+e dentro 
+C:\projetos\web\cloneNetflix\OwlCarousel2-2.3.4\docs\assets\owlcarousel
+retcorte o arquivo owl.carousel.min para dentro da pasta js
+----------------------------------------------------------------------
+e crie uma pasta dentro da pasta do style
+dentro da pasta 
+C:\projetos\web\cloneNetflix\OwlCarousel2-2.3.4\docs\assets\owlcarousel\assets
+copie owl.carousel.min e owl.theme.default.min
+cole os arquivos dentro da pas owl do style
+----------------------------------------------------
+
+----------------------------------------------------------------
+
+RESPONSIVIDADE
+
+Aplicar estilos dependente da tela
+
+crie uma nova pasta na pasta de style pode ser responsive.css
+
+SINTAXE
+	@media screen and (max-width:700px){}
+
+
+
+
+
+	
+		
